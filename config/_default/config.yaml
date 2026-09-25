@@ -11,3 +11,9 @@ params:
   home:
     head:
       title: site
+  persons:
+    index:
+      layout: list
+    single:
+      backlinks: true
+      

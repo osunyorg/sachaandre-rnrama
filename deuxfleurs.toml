@@ -18,3 +18,7 @@ Cache-Control = "max-age=31536000, no-transform, public"
 from = "/actualites/theme/fin-des-aides-au-peuple/index.html"
 to = "/actualites/theme/fin-des-aides-populaires/"
 
+[[redirects]]
+from = "/actualites/2026-03-25-augmentation-non-negligeable-des-indemnites-delus-saint-savin-33/index.html"
+to = "/actualites/2026-09-25-augmentation-non-negligeable-des-indemnites-delus-saint-savin-33/"
+
